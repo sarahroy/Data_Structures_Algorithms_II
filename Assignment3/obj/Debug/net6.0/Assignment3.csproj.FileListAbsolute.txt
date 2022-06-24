@@ -1,0 +1,15 @@
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\ref\Assignment3.dll
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+C:\Users\sarah\OneDrive\TrentUniversity\Year4\Winter2022\COIS 3020 - Winter 22\Assignments\A3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
